@@ -16,7 +16,7 @@ A modern and responsive Todo List application built using React.js. This app hel
 - Interactive task management
 
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main 
 
@@ -84,11 +84,5 @@ http://localhost:3000
 
 
 ##  Author
-
 Amrita Patnaik
 
-
-
-## ⭐ Support
-
-If you like this project, consider giving it a star on GitHub.
